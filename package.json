@@ -1,6 +1,6 @@
 {
-  "name": "check-registry-doc",
-  "version": "1.0.0",
+  "name": "@check-registry-doc",
+  "version": "1.0.1",
   "description": "Npm Registry Test",
   "main": "contracts",
   "scripts": {
