@@ -1,0 +1,24 @@
+{
+  "name": "check-registry-doc",
+  "version": "1.0.0",
+  "description": "Npm Registry Test",
+  "main": "contracts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokesh-systango/squash-test.git"
+  },
+  "keywords": [],
+  "author": "Lokesh Maheshwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokesh-systango/squash-test/issues"
+  },
+  "homepage": "https://github.com/lokesh-systango/squash-test#readme",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "@openzeppelin/contracts": "^4.8.0"
+  }
+}
